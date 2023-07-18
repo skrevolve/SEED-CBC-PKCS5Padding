@@ -1,7 +1,7 @@
 <?php
 require_once ('KISA_SEED_CBC.php');
 
-# PHP Notice:  Undefined offset: 3 오류 무시하세요
+# PHP Notice:  Undefined offset 오류 무시하세요
 
 $SEED_KEY = "rClo7QA4gdgyITHAPWrfXw==";
 $SEED_IV = "WPAYSTDWPAY00000";
